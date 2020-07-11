@@ -10,7 +10,7 @@ Some of the projects do not have a README yet, they are most porbably under deve
 
 # Data Science
 
- * [Full ML Pipeline Example](https://github.com/uditmanav17/Interesting-Books/tree/master/Hands-On%20ML/Ch2%20Full%20ML%20Pipeline)
+ * [Full ML Pipeline Example](https://colab.research.google.com/github/uditmanav17/Interesting-Books/blob/master/Hands-On%20ML/Ch2%20Full%20ML%20Pipeline/Full%20ML%20Pipeline.ipynb)
 
 
 

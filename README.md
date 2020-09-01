@@ -5,14 +5,16 @@ Some of the projects do not have a README yet, they are most porbably under deve
 
 # Python Projects
 
- * [Flask Blog](https://github.com/uditmanav17/Flask-Blog)
+* [Flask Blog](https://github.com/uditmanav17/Flask-Blog)
 
 
 # Data Science
 
- * [Full ML Pipeline Example](https://colab.research.google.com/github/uditmanav17/Interesting-Books/blob/master/Hands-On%20ML/Ch2%20Full%20ML%20Pipeline/Full%20ML%20Pipeline.ipynb)
+* [Full ML Pipeline Example](https://colab.research.google.com/github/uditmanav17/Interesting-Books/blob/master/Hands-On%20ML/Ch2%20Full%20ML%20Pipeline/Full%20ML%20Pipeline.ipynb)
 
-
+* NLP Stuffs
+	* [Label Propagation](https://colab.research.google.com/github/uditmanav17/Sandbox/blob/master/NLP/BERT%20labelPropagation/BERT-label_propagation.ipynb) using BERT and K Means Clustering
+	* [Text Classification](https://colab.research.google.com/drive/1CuPHT12UQy95RIdjeEsyAu_OfoCaeCpG#scrollTo=x6imLTTqphyC)
 
 
 

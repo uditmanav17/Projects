@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "movie-rec-sys"
+version = "0.1.0"
+description = ""
+authors = ["Udit Manav <uditmanav17@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.0"
+duckdb = "^0.9.1"
+requests = "^2.31.0"
+matplotlib = "^3.8.1"
+jupysql = "^0.10.3"
+ploomber = "^0.23.0"
+pandas = "<=2.13"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

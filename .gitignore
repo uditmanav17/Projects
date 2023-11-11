@@ -2,6 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 # Custom files and dirs
+**.duckdb
+**.wal
+**.metadata
 
 
 ### Python ###

@@ -1,3 +1,8 @@
+# %% tags=["parameters"]
+# declare a list tasks whose products you want to use as inputs
+upstream = None
+
+
 # %%
 import os
 from string import Template
